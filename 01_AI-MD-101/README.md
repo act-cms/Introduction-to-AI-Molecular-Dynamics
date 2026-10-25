@@ -20,6 +20,10 @@ At the end of this lesson, students will be able to...
    in the context of molecular simulation.
 5. Identify appropriate and inappropriate uses of AI/LLM tools in MD workflows.
 
+### Estimated Time
+
+2 to 2.5 hours: 60 to 75 minutes for each of the two notebooks.
+
 ### Cyberinfrastructure Prerequisites
 
 Before beginning this lesson, students are expected to have the following skills
@@ -81,6 +85,9 @@ MD workflow with a Lennard-Jones potential and Velocity Verlet integration. The
 `introduction-to-ai-llm-for-molecular-dynamics.ipynb` notebook introduces AI,
 machine learning, and LLM concepts through MD-relevant examples, including a
 simple learned force-law demonstration.
+
+Both notebooks run with Python, NumPy, and Matplotlib only, in Google Colab, on
+ChemCompute, or in a local Python environment, and they do not write any files.
 
 No separate instructor key or instructor-notes notebook is currently provided
 for this introductory lesson.
